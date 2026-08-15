@@ -102,7 +102,8 @@
 	<haxelib name="faxe" if="switch"/>
 	<haxelib name="discord_rpc" if="desktop"/>
 	<haxelib name="hxvlc" if="desktop || android"/>
-	<haxelib name="extension-androidtools" if="android" />
+	<haxelib name="hxCodec" if="desktop || android"/>
+	<haxelib name="android-manager" if="android" />
 
 	<haxeflag name="--macro" value="include('meta.ui')" />
 
