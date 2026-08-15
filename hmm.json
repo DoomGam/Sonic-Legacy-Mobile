@@ -1,13 +1,6 @@
 {
   "dependencies": [
     {
-      "name": "astc-compressor",
-      "type": "git",
-      "dir": null,
-      "ref": "6c0fa6f46d3547ca58859b6ede87e659018a7ff5",
-      "url": "https://github.com/KarimAkra/astc-compressor"
-    },
-    {
       "name": "hx-ios-uikit",
       "type": "git",
       "dir": null,
