@@ -59,13 +59,6 @@
       "url": "https://github.com/polybiusproxy/hxCodec"
     },
     {
-      "name": "hxvlc",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/MAHDIA33/hxvlc"
-    },
-    {
       "name": "SScript",
       "type": "git",
       "dir": null,
