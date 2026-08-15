@@ -101,7 +101,6 @@
 	<haxelib name="linc_luajit" if="LUA_ALLOWED"/>
 	<haxelib name="faxe" if="switch"/>
 	<haxelib name="discord_rpc" if="desktop"/>
-	<haxelib name="hxvlc" if="desktop || android"/>
 	<haxelib name="hxCodec" if="desktop || android"/>
 	<haxelib name="android-manager" if="android" />
 
@@ -118,7 +117,6 @@
 	<haxedef name="LUA_BUILD_TYPE" value="RELEASE" if="android" />
 
 	<!-- Configurações do SDK Android -->
-	<config :android gradle-version="7.4.2" gradle-plugin="7.4.2" if="android" />
 	<android target-sdk-version="33" min-sdk-version="21" if="android" />
 
 	<!-- _________________________________ Custom _______________________________ -->
